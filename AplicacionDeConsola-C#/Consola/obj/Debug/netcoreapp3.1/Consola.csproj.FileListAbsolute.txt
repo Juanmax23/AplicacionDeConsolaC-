@@ -1,0 +1,119 @@
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Familia\source\repos\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Familia\source\repos\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\Obligatorio\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+E:\Datos\Desktop\Obligatorio\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\obl222\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Bruno Collazo\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Datos\Desktop\oblP2\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+E:\Datos\Desktop\oblP2\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
